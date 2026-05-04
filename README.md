@@ -161,6 +161,7 @@ I care about systems that don't fall over at scale, clean concurrency models, an
 If you're hiring for **Software Engineer** roles — backend, distributed systems, full-stack, or protocol-level — I'd love to chat.
 
 <a href="https://www.linkedin.com/in/kkarhana/">📩 LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:kkarhana47@gmail.com">✉️ kkarhana47@gmail.com</a>
+<a href="mailto:kkarhana47@gmail.com">✉️ kkarhana47@gmail.com</a> &nbsp;·&nbsp;
+<a href="https://dub.sh/kkarhana-resume"> 📁 CV</a> 
 
 <sub><i>"Build for the load you'll have in two years, not the load you have today."</i></sub>
