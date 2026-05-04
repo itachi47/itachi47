@@ -11,6 +11,9 @@ I build systems that scale — from AI hiring marketplaces serving 100K+ users t
   <a href="mailto:kkarhana47@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+    <a href="https://dub.sh/kkarhana-resume">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white]" alt="Resume" />
+  </a>
 </p>
 
 ---
@@ -162,6 +165,6 @@ If you're hiring for **Software Engineer** roles — backend, distributed system
 
 <a href="https://www.linkedin.com/in/kkarhana/">📩 LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:kkarhana47@gmail.com">✉️ kkarhana47@gmail.com</a> &nbsp;·&nbsp;
-<a href="https://dub.sh/kkarhana-resume"> 📁 CV</a> 
+<a href="https://dub.sh/kkarhana-resume"> 📁 Resume</a> 
 
 <sub><i>"Build for the load you'll have in two years, not the load you have today."</i></sub>
