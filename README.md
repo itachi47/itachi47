@@ -12,7 +12,7 @@ I build systems that scale — from AI hiring marketplaces serving 100K+ users t
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
     <a href="https://dub.sh/kkarhana-resume">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white]" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume" />
   </a>
 </p>
 
